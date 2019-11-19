@@ -1,4 +1,4 @@
-.column{
+.column {
     float: left;
     height: 50px;
     width: 30%;
@@ -19,4 +19,12 @@
         margin: 10px 0px;
 
     }
+}
+section{
+    height: 100%;
+}
+body, html{
+    margin: 0;
+    padding: 0;
+
 }
